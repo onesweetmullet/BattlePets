@@ -1,0 +1,12 @@
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\bin\Debug\BattlePets.exe
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\bin\Debug\BattlePets.pdb
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\bin\Debug\net.graphicintegrity.battlepets.framework.dll
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\bin\Debug\net.graphicintegrity.battlepets.framework.pdb
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Debug\BattlePets.Form1.resources
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Debug\BattlePets.Properties.Resources.resources
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Debug\BattlePets.exe
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Debug\BattlePets.pdb
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Debug\BattlePets.PetAttack.resources

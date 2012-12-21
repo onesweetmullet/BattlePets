@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pets>
+    <Pet PetID="1" PetName="Bunny Rabbit" PetTypeID="1" PetDescription="" />
+    <Pet PetID="2" PetName="Donkey" PetTypeID="1" PetDescription="" />
+    <Pet PetID="3" PetName="Hawk" PetTypeID="2" PetDescription="" />
+    <Pet PetID="4" PetName="Blue Jay" PetTypeID="2" PetDescription="" />
+    <Pet PetID="5" PetName="Lizard Brain" PetTypeID="3" PetDescription="" />
+    <Pet PetID="6" PetName="XT-9001" PetTypeID="4" PetDescription="" />
+    <Pet PetID="7" PetName="Flamewreath" PetTypeID="5" PetDescription="" />    
+</Pets>

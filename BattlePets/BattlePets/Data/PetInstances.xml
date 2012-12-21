@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PetInstances>
+	<PetInstance PetInstanceID="1" PetID="1" PlayerID="1" PetInstanceLevel="5" PetInstanceHealthMax="100" />
+	<PetInstance PetInstanceID="2" PetID="2" PlayerID="1" PetInstanceLevel="1" PetInstanceHealthMax="100" />
+	<PetInstance PetInstanceID="3" PetID="3" PlayerID="1" PetInstanceLevel="1" PetInstanceHealthMax="100" />
+	<PetInstance PetInstanceID="4" PetID="4" PlayerID="1" PetInstanceLevel="1" PetInstanceHealthMax="100" />
+	<PetInstance PetInstanceID="5" PetID="5" PlayerID="1" PetInstanceLevel="1" PetInstanceHealthMax="100" />
+	<PetInstance PetInstanceID="6" PetID="6" PlayerID="1" PetInstanceLevel="1" PetInstanceHealthMax="100" />
+	<PetInstance PetInstanceID="7" PetID="7" PlayerID="1" PetInstanceLevel="1" PetInstanceHealthMax="100" />
+</PetInstances>

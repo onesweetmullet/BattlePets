@@ -1,0 +1,12 @@
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\bin\Release\BattlePets.exe
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\bin\Release\BattlePets.pdb
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\bin\Release\net.graphicintegrity.battlepets.framework.dll
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\bin\Release\net.graphicintegrity.battlepets.framework.pdb
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Release\BattlePets.Form1.resources
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Release\BattlePets.PetAttack.resources
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Release\BattlePets.Properties.Resources.resources
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Release\BattlePets.exe
+E:\Documents\pcburke\developer\C Sharp Projects\BattlePets\BattlePets\obj\x86\Release\BattlePets.pdb

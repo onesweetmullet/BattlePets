@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PetTypes>
+    <PetType PetTypeID="1" PetTypeName="Mammal" PetTypeDescription="" EffectiveAgainstPetTypeID="1" NotEffectiveAgainstPetTypeID="2" />
+    <PetType PetTypeID="2" PetTypeName="Avian" PetTypeDescription="" EffectiveAgainstPetTypeID="1" NotEffectiveAgainstPetTypeID="2" />
+    <PetType PetTypeID="3" PetTypeName="Reptile" PetTypeDescription="" EffectiveAgainstPetTypeID="1" NotEffectiveAgainstPetTypeID="2" />
+    <PetType PetTypeID="4" PetTypeName="Robot" PetTypeDescription="" EffectiveAgainstPetTypeID="1" NotEffectiveAgainstPetTypeID="2" />
+    <PetType PetTypeID="5" PetTypeName="Elemental" PetTypeDescription="" EffectiveAgainstPetTypeID="1" NotEffectiveAgainstPetTypeID="2" />    
+</PetTypes>

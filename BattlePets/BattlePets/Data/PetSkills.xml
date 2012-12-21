@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PetSkills>
+	<PetSkill PetSkillID="1" PetID="1" DamageTypeID="1" PetSkillName="Strike" PetSkillDescription="" PetSkillDamageMinimum="100" PetSkillDamageMaximum="200" PetSkillMissChance="0" />
+	<PetSkill PetSkillID="2" PetID="1" DamageTypeID="1" PetSkillName="Cleave" PetSkillDescription="" PetSkillDamageMinimum="85" PetSkillDamageMaximum="155" PetSkillMissChance="0" />
+	<PetSkill PetSkillID="3" PetID="1" DamageTypeID="1" PetSkillName="Rend" PetSkillDescription="" PetSkillDamageMinimum="200" PetSkillDamageMaximum="355" PetSkillMissChance="0" />
+	<PetSkill PetSkillID="4" PetID="1" DamageTypeID="2" PetSkillName="Fireball" PetSkillDescription="" PetSkillDamageMinimum="200" PetSkillDamageMaximum="350" PetSkillMissChance="0" />
+	<PetSkill PetSkillID="5" PetID="2" DamageTypeID="2" PetSkillName="Scorch" PetSkillDescription="" PetSkillDamageMinimum="100" PetSkillDamageMaximum="200" PetSkillMissChance="0" />
+	<PetSkill PetSkillID="6" PetID="2" DamageTypeID="3" PetSkillName="Electrocute" PetSkillDescription="" PetSkillDamageMinimum="100" PetSkillDamageMaximum="200" PetSkillMissChance="0" />
+	<PetSkill PetSkillID="7" PetID="2" DamageTypeID="4" PetSkillName="Poison Dart" PetSkillDescription="" PetSkillDamageMinimum="85" PetSkillDamageMaximum="175" PetSkillMissChance="0" />
+	<PetSkill PetSkillID="8" PetID="2" DamageTypeID="5" PetSkillName="Arcane Blast" PetSkillDescription="" PetSkillDamageMinimum="100" PetSkillDamageMaximum="200" PetSkillMissChance="0" />
+</PetSkills>

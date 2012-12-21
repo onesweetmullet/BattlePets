@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DamageTypes>
+	<DamageType DamageTypeID="1" DamageTypeName="Physical" DamageTypeDescription="" />
+	<DamageType DamageTypeID="2" DamageTypeName="Fire" DamageTypeDescription="" />
+	<DamageType DamageTypeID="3" DamageTypeName="Electric" DamageTypeDescription="" />
+	<DamageType DamageTypeID="4" DamageTypeName="Poison" DamageTypeDescription="" />
+	<DamageType DamageTypeID="5" DamageTypeName="Arcane" DamageTypeDescription="" />
+</DamageTypes>
