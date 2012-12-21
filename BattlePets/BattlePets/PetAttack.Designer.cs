@@ -145,15 +145,17 @@
             // txtResult
             // 
             this.txtResult.Location = new System.Drawing.Point(134, 253);
+            this.txtResult.Multiline = true;
             this.txtResult.Name = "txtResult";
-            this.txtResult.Size = new System.Drawing.Size(100, 20);
+            this.txtResult.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.txtResult.Size = new System.Drawing.Size(233, 48);
             this.txtResult.TabIndex = 12;
             // 
             // PetAttack
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 313);
+            this.ClientSize = new System.Drawing.Size(438, 327);
             this.Controls.Add(this.txtResult);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.button1);

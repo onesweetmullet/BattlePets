@@ -18,8 +18,8 @@ namespace BattlePets
         }
 
         private void button1_Click(object sender, EventArgs e)
-        {
-            txtResult.Text = PetAction.PetAttack
+        {            
+            txtResult.Text = AttackAction.Attack
                 (
                     int.Parse(txtPlayerID.Text),
                     int.Parse(txtPetInstanceID.Text),

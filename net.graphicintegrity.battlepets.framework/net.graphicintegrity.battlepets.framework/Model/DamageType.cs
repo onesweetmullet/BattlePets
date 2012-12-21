@@ -27,7 +27,7 @@ namespace net.graphicintegrity.battlepets.framework.Model
         public string DamageTypeDescription { get; set; }        
         #endregion
 
-        private static DamageType GetDamageType(int damageTypeID)
+        protected static DamageType GetDamageType(int damageTypeID)
         {
             XElement _xml = XElement.Load(System.IO.Path.GetFullPath(Constants.DAMAGE_TYPES_XML));
 
@@ -38,15 +38,7 @@ namespace net.graphicintegrity.battlepets.framework.Model
             return _damageTypes.ListDamageType.Find(i => i.DamageTypeID == damageTypeID);
         }
 
-        public static string GetDamageTypeName(int damageTypeID)
-        {
-            return GetDamageType(damageTypeID).DamageTypeName;
-        }
-
-        public static string GetDamageTypeDescription(int damageTypeID)
-        {
-            return GetDamageType(damageTypeID).DamageTypeDescription;
-        }
+        
 
     }
 }

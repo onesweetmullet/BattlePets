@@ -46,7 +46,7 @@ namespace net.graphicintegrity.battlepets.framework.Model
 
         // dodge chance
 
-        private static PetSkill GetPetSkill(int petSkillID)
+        protected static PetSkill GetPetSkill(int petSkillID)
         {
             XElement _xml = XElement.Load(System.IO.Path.GetFullPath(Constants.PET_SKILLS_XML));
 
@@ -55,16 +55,6 @@ namespace net.graphicintegrity.battlepets.framework.Model
             PetSkills _petSkills = (PetSkills)_ser;
 
             return _petSkills.ListPetSkill.Find(i => i.PetSkillID == petSkillID);
-        }
-        
-        public static int GetPetSkillDamageMinimum(int petSkillID)
-        {
-            return GetPetSkill(petSkillID).PetSkillDamageMinimum;
-        }
-
-        public static int GetPetSkillDamageMaximum(int petSkillID)
-        {
-            return GetPetSkill(petSkillID).PetSkillDamageMaximum;
-        }
+        }        
     }
 }

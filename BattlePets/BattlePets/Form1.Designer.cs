@@ -100,8 +100,9 @@
             // txtResult
             // 
             this.txtResult.Location = new System.Drawing.Point(71, 155);
+            this.txtResult.Multiline = true;
             this.txtResult.Name = "txtResult";
-            this.txtResult.Size = new System.Drawing.Size(100, 20);
+            this.txtResult.Size = new System.Drawing.Size(320, 64);
             this.txtResult.TabIndex = 7;
             // 
             // label4
@@ -117,7 +118,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(408, 262);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txtResult);
             this.Controls.Add(this.btnSubmit);

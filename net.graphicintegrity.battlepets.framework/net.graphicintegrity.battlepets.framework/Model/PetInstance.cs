@@ -35,17 +35,7 @@ namespace net.graphicintegrity.battlepets.framework.Model
         // modifiers for skills?
         // maybe just add a multiplier for level * maxDamage, level * minDamage?
 
-        public static int GetPetInstanceLevel(int petInstanceID)
-        {
-            return GetPetInstance(petInstanceID).PetInstanceLevel;
-        }
-
-        public static int GetPetID(int petInstanceID)
-        {
-            return GetPetInstance(petInstanceID).PetID;
-        }
-
-        private static PetInstance GetPetInstance(int petInstanceID)
+        protected static PetInstance GetPetInstance(int petInstanceID)
         {
             XElement _xml = XElement.Load(System.IO.Path.GetFullPath(Constants.PET_INSTANCES_XML));
 

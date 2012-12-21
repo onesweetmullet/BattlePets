@@ -3,3 +3,8 @@ E:\Documents\pcburke\developer\C Sharp Projects\net.graphicintegrity.battlepets.
 E:\Documents\pcburke\developer\C Sharp Projects\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\obj\Debug\ResolveAssemblyReference.cache
 E:\Documents\pcburke\developer\C Sharp Projects\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\obj\Debug\net.graphicintegrity.battlepets.framework.dll
 E:\Documents\pcburke\developer\C Sharp Projects\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\obj\Debug\net.graphicintegrity.battlepets.framework.pdb
+E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\obj\Debug\net.graphicintegrity.battlepets.framework.dll
+E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\bin\Debug\net.graphicintegrity.battlepets.framework.dll
+E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\bin\Debug\net.graphicintegrity.battlepets.framework.pdb
+E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\obj\Debug\net.graphicintegrity.battlepets.framework.pdb

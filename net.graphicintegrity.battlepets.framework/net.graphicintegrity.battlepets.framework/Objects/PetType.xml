@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<PetTypes>
-    <PetType ID="1" Name="Avian" />
-    <PetType ID="2" Name="Mammal" />
-    <PetType ID="3" Name="Reptile" />
-    <PetType ID="4" Name="Robot" />
-    <PetType ID="5" Name="Elemental" />
-</PetTypes>
