@@ -37,8 +37,5 @@ namespace net.graphicintegrity.battlepets.framework.Model
 
             return _damageTypes.ListDamageType.Find(i => i.DamageTypeID == damageTypeID);
         }
-
-        
-
     }
 }

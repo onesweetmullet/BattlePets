@@ -12,6 +12,8 @@ namespace net.graphicintegrity.battlepets.framework
         public const string PET_SKILLS_XML = "../../Data/PetSkills.xml";
         public const string PETS_XML = "../../Data/Pets.xml";
         public const string PET_TYPES_XML = "../../Data/PetTypes.xml";
+        public const string PET_TEAMS_XML = "../../Data/PetTeams.xml";
+        public const string PLAYERS_XML = "../../Data/Players.xml";
 
         public const string EFFECTIVE = "effective";
         public const string NOT_EFFECTIVE = "not effective";

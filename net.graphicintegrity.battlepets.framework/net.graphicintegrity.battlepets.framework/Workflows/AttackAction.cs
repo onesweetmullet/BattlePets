@@ -91,6 +91,9 @@ namespace net.graphicintegrity.battlepets.framework.Workflows
             // get the value of the attack
             int _damageAmount = Utilities.RNG.GetRandomNumber(_petSkillDamageMinimum, _petSkillDamageMaximum);
 
+            // get the remaining health for the petInstance
+            int _remainingHealth = Workflows.PetInstance.GetPetRemainingHealth(petInstanceID, _damageAmount);
+
             return GetPetAttackMessage(_playerPetID, opponentPetID, petSkillID, _damageAmount, _effectiveString);
         }
     }

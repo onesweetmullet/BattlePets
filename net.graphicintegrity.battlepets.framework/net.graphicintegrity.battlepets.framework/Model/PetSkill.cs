@@ -16,7 +16,7 @@ namespace net.graphicintegrity.battlepets.framework.Model
 
     public class PetSkill
     {
-        #region Properties
+        #region Attributes
         [XmlAttribute("PetSkillID")]
         public int PetSkillID { get; set; }
 

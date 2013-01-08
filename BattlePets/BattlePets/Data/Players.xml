@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Players>
+  <Player PlayerID="1" PlayerUserName="pcburke" PlayerName="kaputt" PlayerCreated="Thursday, January 01, 1970" PlayerLastActive="Monday, January 07, 2013" Active="1" />
+  <Player PlayerID="2" PlayerUserName="TestUser" PlayerName="Test" PlayerCreated="1970-01-01T00:00:00" PlayerLastActive="2013-01-07T23:24:28.3406335-05:00" Active="1" />
+</Players>

@@ -52,12 +52,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utilities\RNG.cs" />
     <Compile Include="Utilities\Serializer.cs" />
+    <Compile Include="Utilities\Xml.cs" />
     <Compile Include="Workflows\AttackAction.cs" />
     <Compile Include="Workflows\DamageType.cs" />
     <Compile Include="Workflows\Pet.cs" />
     <Compile Include="Workflows\PetInstance.cs" />
     <Compile Include="Workflows\PetSkill.cs" />
     <Compile Include="Workflows\PetType.cs" />
+    <Compile Include="Workflows\Player.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

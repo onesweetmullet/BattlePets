@@ -22,3 +22,4 @@ E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePets\BattlePets\obj\x86\D
 E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePets\BattlePets\obj\x86\Debug\BattlePets.Properties.Resources.resources
 E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePets\BattlePets\obj\x86\Debug\GenerateResource.read.1.tlog
 E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePets\BattlePets\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePets\BattlePets\obj\x86\Debug\BattlePets.Player.resources

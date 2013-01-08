@@ -17,6 +17,7 @@ namespace net.graphicintegrity.battlepets.framework.Model
 
     public class PetInstance
     {
+        #region Attributes
         [XmlAttribute("PetInstanceID")]
         public int PetInstanceID { get; set; }
 
@@ -31,10 +32,14 @@ namespace net.graphicintegrity.battlepets.framework.Model
 
         [XmlAttribute("PetInstanceMaxHealth")]
         public int PetInstanceHealthMax { get; set; }
-        
+
+        [XmlAttribute("PetInstanceCurrentHealth")]
+        public int PetInstanceCurrentHealth { get; set; }
+        #endregion
+
         // modifiers for skills?
         // maybe just add a multiplier for level * maxDamage, level * minDamage?
-
+                
         protected static PetInstance GetPetInstance(int petInstanceID)
         {
             XElement _xml = XElement.Load(System.IO.Path.GetFullPath(Constants.PET_INSTANCES_XML));

@@ -1,0 +1,7 @@
+E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePetsWebApp\BattlePetsWebApp\bin\BattlePetsWebApp.dll
+E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePetsWebApp\BattlePetsWebApp\bin\BattlePetsWebApp.pdb
+E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePetsWebApp\BattlePetsWebApp\bin\EntityFramework.dll
+E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePetsWebApp\BattlePetsWebApp\bin\EntityFramework.xml
+E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePetsWebApp\BattlePetsWebApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePetsWebApp\BattlePetsWebApp\obj\Debug\BattlePetsWebApp.dll
+E:\Documents\pcburke\developer\GitHub\BattlePets\BattlePetsWebApp\BattlePetsWebApp\obj\Debug\BattlePetsWebApp.pdb
