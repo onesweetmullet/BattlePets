@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Data.SQLite;
 
 namespace net.graphicintegrity.battlepets.framework.Workflows
 {
@@ -57,7 +58,7 @@ namespace net.graphicintegrity.battlepets.framework.Workflows
 
         public static string Attack(int playerID, int petInstanceID, int petSkillID,
             int opponentPetID, int opponentPetLevel)
-        {
+        {            
             // get the pet's level
             int _petInstanceLevel = Workflows.PetInstance.GetPetInstanceLevel(petInstanceID);
 

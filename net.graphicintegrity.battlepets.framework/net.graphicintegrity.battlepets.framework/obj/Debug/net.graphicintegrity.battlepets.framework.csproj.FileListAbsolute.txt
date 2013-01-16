@@ -8,3 +8,5 @@ E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets
 E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\bin\Debug\net.graphicintegrity.battlepets.framework.dll
 E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\bin\Debug\net.graphicintegrity.battlepets.framework.pdb
 E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\obj\Debug\net.graphicintegrity.battlepets.framework.pdb
+E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\bin\Debug\System.Data.SQLite.dll
+E:\Documents\pcburke\developer\GitHub\BattlePets\net.graphicintegrity.battlepets.framework\net.graphicintegrity.battlepets.framework\bin\Debug\System.Data.SQLite.Linq.dll

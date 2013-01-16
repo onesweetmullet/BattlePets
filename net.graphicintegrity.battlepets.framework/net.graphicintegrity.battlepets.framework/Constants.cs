@@ -19,5 +19,6 @@ namespace net.graphicintegrity.battlepets.framework
         public const string NOT_EFFECTIVE = "not effective";
         public const string SUPER_EFFECTIVE = "super effective";
 
+        public const string DATABASE_PATH = "../../Data/battlepets.db";
     }
 }

@@ -42,13 +42,31 @@ namespace net.graphicintegrity.battlepets.framework.Model
                 
         protected static PetInstance GetPetInstance(int petInstanceID)
         {
-            XElement _xml = XElement.Load(System.IO.Path.GetFullPath(Constants.PET_INSTANCES_XML));
+            PetInstance _petInstance = new PetInstance();
 
-            var _ser = Utilities.Serializer.XmlDeserializeFromString(_xml.ToString(), typeof(PetInstances));
+            string _query = "SELECT * FROM PetInstance WHERE PetInstanceID = " + petInstanceID;
+            List<List<string>> _listResults = DataAccessLayer.DataBase.GetResults(_query,
+                System.IO.Path.GetFullPath(Constants.DATABASE_PATH));
 
-            PetInstances _petInstances = (PetInstances)_ser;
+            foreach (List<string> _list in _listResults)
+            {
+                _petInstance.PetInstanceID = int.Parse(_list[0]);
+                _petInstance.PetID = int.Parse(_list[1]);
+                _petInstance.PlayerID = int.Parse(_list[2]);
+                _petInstance.PetInstanceLevel = int.Parse(_list[3]);
+                _petInstance.PetInstanceHealthMax = int.Parse(_list[4]);
+                _petInstance.PetInstanceCurrentHealth = int.Parse(_list[5]);
+            }
 
-            return _petInstances.ListPetInstance.Find(i => i.PetInstanceID == petInstanceID);
+            return _petInstance;
+
+            //XElement _xml = XElement.Load(System.IO.Path.GetFullPath(Constants.PET_INSTANCES_XML));
+
+            //var _ser = Utilities.Serializer.XmlDeserializeFromString(_xml.ToString(), typeof(PetInstances));
+
+            //PetInstances _petInstances = (PetInstances)_ser;
+
+            //return _petInstances.ListPetInstance.Find(i => i.PetInstanceID == petInstanceID);
         }
     }
 }
